@@ -147,7 +147,7 @@ data:{
 
 ```wxml
 <l-input label="验证码"  label-layout="left"  placeholder="请输入验证码" >
-	<img slot="right" src="path/to/img.png">
+	<image slot="right" src="path/to/img.png"></image>
 </l-input>
 ```
 
